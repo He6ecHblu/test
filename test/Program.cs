@@ -6,7 +6,8 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int age = 25;
+            Console.WriteLine(age);
         }
     }
 }
